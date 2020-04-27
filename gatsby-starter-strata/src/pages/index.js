@@ -120,13 +120,13 @@ const HomeIndex = () => {
                 <h3 className="icon fa-github">
                 <span className="label">Github</span>
                 </h3 >
-                <a href="https://github.com/dlew253">https://github.com/dlew253</a>
+                <a href="https://github.com/dlew253">dlew253</a>
                 </li>
               </ul>
               <ul className="actions">
             <li>
               <h3>Resume</h3>
-              <a href="https://imgur.com/a/ffAXWv0">See my resume</a>
+              <a href="https://imgur.com/a/19MHjJ9">See my resume</a>
             </li>
           </ul>
             </div>

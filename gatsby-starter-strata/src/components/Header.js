@@ -1,6 +1,4 @@
 import React from 'react'
-
-import Footer from './Footer'
 import avatar from '../assets/images/profile.png'
 
 const Header = () => (
@@ -15,7 +13,7 @@ const Header = () => (
         <br /> <br />
       </h1>
     </div>
-    <Footer />
+    
   </header>
 )
 
