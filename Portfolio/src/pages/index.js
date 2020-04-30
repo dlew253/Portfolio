@@ -1,9 +1,5 @@
-import React from 'react'
+import React  from 'react'
 import Helmet from 'react-helmet'
-//import brewl from '../assets/images/thumbs/brewcrewlogo.png'
-//import pongl from '../assets/images/thumbs/pongthumb.png'
-//import full03 from '../assets/images/fulls/03.jpg'
-//import full04 from '../assets/images/fulls/04.jpg'
 import brew from '../assets/images/thumbs/brewcrewlogo2.jpg'
 import pong from '../assets/images/thumbs/pongthumb2.png'
 import giveback from '../assets/images/thumbs/givebackLanding.png'
@@ -123,12 +119,13 @@ const HomeIndex = () => {
                 <a href="https://github.com/dlew253">dlew253</a>
                 </li>
               </ul>
-              <ul className="actions">
-            <li>
-              <h3>Resume</h3>
-              <a href="https://imgur.com/a/19MHjJ9">See my resume</a>
-            </li>
-          </ul>
+              
+          <Link 
+            href='http://dlew253.github.io/resume.pdf' 
+            target='noopener'>
+              Resume
+          </Link>
+          
             </div>
         </section>
       </div>
