@@ -1,4 +1,4 @@
-import React  from 'react'
+import React from 'react'
 import Helmet from 'react-helmet'
 import brew from '../assets/images/thumbs/brewcrewlogo2.jpg'
 import pong from '../assets/images/thumbs/pongthumb2.png'
@@ -119,14 +119,18 @@ const HomeIndex = () => {
                 <a href="https://github.com/dlew253">dlew253</a>
                 </li>
               </ul>
-              
-          <Link 
-            href='http://dlew253.github.io/resume.pdf' 
-            target='noopener'>
-              Resume
-          </Link>
-          
-            </div>
+              <ul className="actions">
+            <li>
+              <h3>Resume</h3>
+              <a href="https://imgur.com/a/19MHjJ9">See my resume</a>
+            </li>
+          </ul>
+            <Link 
+              href='http://dlew253.github.io/resume.pdf' 
+              target='noopener'>
+                Resume
+            </Link>
+          </div>
         </section>
       </div>
     </Layout>
