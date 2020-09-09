@@ -62,7 +62,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            Passionate, determined, resourceful. A 27 year old former sous-chef turned web developer from Seattle Washington. After a decade of living out a childhood dream, I found myself hungry for a new challenge in my career path. A craving for problem solving and a desire to be a part of the future lined up a perfect storm of opportunity for my growth that lead me to General Assembly's Software Engineering Immersive bootcamp in January of 2020. 
+            Passionate, determined, resourceful. A 28 year old former sous-chef turned web developer from Seattle Washington. After a decade of living out a childhood dream, I found myself hungry for a new challenge in my career path. A craving for problem solving and a desire to be a part of the future lined up a perfect storm of opportunity for my growth that lead me to General Assembly's Software Engineering Immersive bootcamp in January of 2020. 
           </p>
           
         </section>
@@ -95,7 +95,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Skills</h2>
           <p>
-            HTML, JavaScript, React.Js, Gatsby.js <br /> CSS, SCSS, Bootstrap, Material UI <br />Express, Node.js, Python, Flask, SQLAlchemy, Postgres, MongoDb, 
+            HTML, JavaScript, React.Js<br /> CSS, SCSS, Bootstrap, Material UI <br />Express, Node.js, Python, Flask, SQLAlchemy, Postgres, MongoDb, 
           </p>
         </section>
 
@@ -110,7 +110,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="dlew253@yahoo.com">dlew253@yahoo.com</a>
+                  <span>Dlew253@yahoo.com</span>
                 </li>
                 <li>
                 <h3 className="icon fa-github">
@@ -125,11 +125,6 @@ const HomeIndex = () => {
               <a href="https://imgur.com/a/19MHjJ9">See my resume</a>
             </li>
           </ul>
-            <Link 
-              href='http://dlew253.github.io/resume.pdf' 
-              target='noopener'>
-                Resume
-            </Link>
           </div>
         </section>
       </div>
