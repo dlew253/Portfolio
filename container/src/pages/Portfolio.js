@@ -9,7 +9,7 @@ const Portfolio = () => (
       <br/>
         <div id='entry'>
           <h3> BrewCrew</h3>
-          <p> BrewCrew is my first attempt at a full-stack application using an Express back-end and an simple styled HTML front-end. The concept behind my app is to connect the average craft beer-loving urbanite with local taprooms and breweries, with the idea to host public hangouts, rate beers, and get involved in bar events like karaoke or trivia nights. My first several attempts at getting the app to function have so far been unsucessful stemming from issues in moving data between pages. This is my first post-cohort task, when the functionality is complete I might come back and reformat the front end with React.js as I've found it to be a fun and very useful language.</p>
+          <p> BrewCrew is my first attempt at a full-stack application using an Express back-end and an simple styled HTML front-end. The concept behind my app is to connect the average craft beer-loving urbanite with local taprooms and breweries, with the idea to host public hangouts, rate beers, and get involved in bar events.</p>
           <a href="https://github.com/dlew253/BrewCrew">https://github.com/dlew253/BrewCrew</a>
           <h5>Skills Used: HTML, CSS, JavaScript, Express</h5>
         </div>

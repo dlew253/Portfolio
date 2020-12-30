@@ -72,9 +72,9 @@ const HomeIndex = () => {
 
           <Gallery
             images={IMAGES.map(
-              ({ id, //source,
+              ({ id, source,
                  thumbnail, caption, description, link }) => ({
-                //source,
+                source,
                 thumbnail,
                 caption,
                 description,
